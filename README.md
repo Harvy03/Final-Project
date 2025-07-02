@@ -11,6 +11,8 @@ It demonstrates a complete data analytics workflow using **SQL for data preparat
 * Highlight overstocked items tying up working capital.
 * Build an interactive Tableau dashboard to drive business decisions.
 
+---
+
 ## 🛠 Tools & Technologies
 | Tool                         | Purpose                                                                                 |
 | ---------------------------- | --------------------------------------------------------------------------------------- |
@@ -18,6 +20,7 @@ It demonstrates a complete data analytics workflow using **SQL for data preparat
 | **Python (Pandas, Seaborn)** | Data merging, correlation analysis, heatmaps, bar & line plots.                         |
 | **Tableau**                  | Interactive dashboard with filters, KPI tiles, scatterplots, and profit margin visuals. |
 
+---
 
 ## 🚀 Project Workflow
 ### 1️⃣ Data Preparation with SQL
@@ -59,26 +62,13 @@ It demonstrates a complete data analytics workflow using **SQL for data preparat
 
 > 🔗 **[View Tableau Dashboard on Tableau Public](https://public.tableau.com/profile/yourusername#!/vizhome/YourDashboardLink)**
 
+---
+
 ## 🔍 Key Insights
 
 * Some sub-categories (like Tables & Binders) had **high sales but negative profit margins**, indicating discounting or supplier cost issues.
 * Products with **Inventory Days > 40 and Profit < ₹500** formed **38% of SKUs**, tying up capital.
 * Sales & profit spiked in **Q4**, signaling potential for strategic promotions.
-
-## 📌 Folder Structure
-📦 Retail-Business-Analysis
-│
-├── sql/
-│   ├── profit_margin_analysis.sql
-│   └── monthly_trends.sql
-│
-├── python/
-│   └── Retail_Performance_Analysis.ipynb
-│
-├── tableau/
-│   └── Retail_Dashboard.twbx
-│
-└── README.md
 
 ## ✍️ How to Run This Project
 
@@ -89,9 +79,10 @@ It demonstrates a complete data analytics workflow using **SQL for data preparat
 
 ## 📈 Sample Outputs
 <div align="center">
-  <img src="C:\Users\CA Mahesh Vyas\Documents\Final Project\Superstore Project Tableau Screenshot.png" width="600"/>
+  <img src="![image](https://github.com/user-attachments/assets/5a71443a-849b-4f99-a6d1-d749374dfc66)" width="600"/>
   <p><i>Interactive Tableau Dashboard with Filters & KPIs</i></p>
 </div>
+
 
 ## 💡 Conclusion
 This project provided deep insights into retail profitability, inventory management, and seasonality.
