@@ -33,9 +33,7 @@ It demonstrates a complete data analytics workflow using **SQL for data preparat
   * Monthly sales & profit trends.
 
 > 📁 **SQL Files:**
->
-> * [`sql/profit_margin_analysis.sql`](sql/profit_margin_analysis.sql)
-> * [`sql/monthly_trends.sql`](sql/monthly_trends.sql)
+> - [SQL Scripts](Final Project/Final Project (Superstore Sales SQL).sql)
 
 ---
 
@@ -49,8 +47,7 @@ It demonstrates a complete data analytics workflow using **SQL for data preparat
   * Bar plot for top 10 profit-draining sub-categories
 
 > 📁 **Python Notebook:**
->
-> * [`python/Retail_Performance_Analysis.ipynb`](python/Retail_Performance_Analysis.ipynb)
+> - [Python Notebook](Final Project/Final Project (Superstore Sales Python).ipynb)
 
 ---
 
@@ -62,7 +59,7 @@ It demonstrates a complete data analytics workflow using **SQL for data preparat
   * **KPI tiles:** Total Sales, Avg Profit Margin, Avg Inventory Days, % Overstocked SKUs.
   * Filters for Region, Product Type, and Season.
 
-> 🔗 **[View Tableau Dashboard on Tableau Public](https://public.tableau.com/profile/yourusername#!/vizhome/YourDashboardLink)**
+> 🔗 **[View Tableau Dashboard on Tableau Public](Final Project/Final Project (Superstore Sales Tableau Dashboard).twbx)**
 
 ---
 
