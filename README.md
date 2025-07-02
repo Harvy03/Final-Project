@@ -4,6 +4,8 @@
 This project focuses on analyzing transactional retail data to uncover **profit-draining categories**, optimize **inventory turnover**, and understand **seasonal sales behavior**.
 It demonstrates a complete data analytics workflow using **SQL for data preparation**, **Python for advanced analysis**, and **Tableau for interactive visualization**.
 
+---
+
 ## 🎯 Objectives
 * Identify underperforming product sub-categories draining profit.
 * Analyze the correlation between **inventory holding days** and **profitability**.
@@ -70,6 +72,8 @@ It demonstrates a complete data analytics workflow using **SQL for data preparat
 * Products with **Inventory Days > 40 and Profit < ₹500** formed **38% of SKUs**, tying up capital.
 * Sales & profit spiked in **Q4**, signaling potential for strategic promotions.
 
+---
+
 ## ✍️ How to Run This Project
 
 ### ⚙️ Prerequisites
@@ -77,12 +81,7 @@ It demonstrates a complete data analytics workflow using **SQL for data preparat
 * Python 3 (with pandas, seaborn, matplotlib)
 * Tableau Desktop or Tableau Public
 
-## 📈 Sample Outputs
-<div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/5a71443a-849b-4f99-a6d1-d749374dfc66)" width="600"/>
-  <p><i>Interactive Tableau Dashboard with Filters & KPIs</i></p>
-</div>
-
+---
 
 ## 💡 Conclusion
 This project provided deep insights into retail profitability, inventory management, and seasonality.
@@ -90,6 +89,8 @@ It enables stakeholders to:
 * Trim overstocked, low-profit SKUs.
 * Plan seasonal pricing strategies.
 * Use live dashboards for agile, data-driven decisions.
+
+---
 
 ## 🙌 Connect with Me
 * 💼 [LinkedIn](https://linkedin.com/in/harshitavyas02)
